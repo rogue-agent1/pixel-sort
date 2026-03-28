@@ -1,6 +1,11 @@
 # pixel-sort
-Pixel sorting glitch art on PPM images. Zero dependencies.
+
+Pixel sorting effect on PPM images (glitch art)
+
 ## Usage
+
 ```bash
-python3 pixel_sort.py input.ppm output.ppm -t 100
+python3 pixel_sort.py --help
 ```
+
+Zero dependencies. Python 3.8+.
